@@ -33,6 +33,10 @@ Note that some of the libraries might have dependencies that will be automatical
 
 Also, the binance api must be properlly setup to operate in the IP address you are trying to run the bots.
 
+## Authors
+
+- [@Francisco Stigliano](https://github.com/LimitlessGrey)
+
 
 ## 🔗 Links
 
